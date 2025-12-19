@@ -1,6 +1,6 @@
 Name: Darcula Pro 2026
 Identity: DarculaPro2026
-Version: 1.0.14
+Version: 1.0.15 
 GUID: 0024020f-bba3-4365-9ea1-63b23313d509
 BaseGUID: 1ded0138-47ce-435e-84ef-9ec1f439b749
 
@@ -4101,7 +4101,7 @@ Sections:
     StatusBarBackgroundFillDebugging: ["#864D30FF", null]
     StatusBarBackgroundFillRest: ["#3C3F41FF", null]
     StatusBarBackgroundFillSolutionLoading: ["#3C3F41FF", null]
-    StatusBarControlFillSecondary: ["#2B2B2BFF", null]
+    StatusBarControlFillSecondary: ["#636567", null]                              # StatusBar(с парва в низу) при наведении . #2B2B2BFF
     StatusBarTextFillBuilding: ["#BABABAFF", null]
     StatusBarTextFillDebugging: ["#BABABAFF", null]
     StatusBarTextFillRest: ["#BABABAFF", null]
