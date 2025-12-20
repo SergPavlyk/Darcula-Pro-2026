@@ -1,6 +1,6 @@
 Name: Darcula Pro 2026
 Identity: DarculaPro2026
-Version: 1.0.15 
+Version: 1.0.16 
 GUID: 0024020f-bba3-4365-9ea1-63b23313d509
 BaseGUID: 1ded0138-47ce-435e-84ef-9ec1f439b749
 
@@ -604,7 +604,7 @@ Sections:
     DropDownText: ["#959595FF", null]
     GridHeadingBackground: ["#2B2B2BFF", null]
     ScrollBar: ["#3E3E42FF", null]
-    ScrollBarBackground: ["#3E3E42FF", null]
+    ScrollBarBackground: ["#3e3e42", null]                                                    # Фон Скрола Fix
     WindowText: ["#B7B8B9FF", null]
     AutoHideTabBackgroundBegin: ["#3C3F41FF", null]
     AutoHideTabBackgroundEnd: ["#3C3F41FF", null]
@@ -820,7 +820,7 @@ Sections:
     AccessKeyToolTipDisabledBorder: ["#52525280", null]
     ActiveBorder: ["#3F3F46FF", null]
     ActiveCaption: ["#252526FF", null]
-    AutoHideResizeGrip: ["#2D2D30FF", null]
+    AutoHideResizeGrip: ["#3e3e42", null]                                                    # Скрол Fix
     AutoHideResizeGripDisabled: ["#3E3E42FF", null]
     AutoHideTabMouseOverBorder: ["#353739FF", null]
     AutoHideTabMouseOverText: ["#BBBBBBFF", null]
