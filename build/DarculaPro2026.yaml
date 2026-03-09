@@ -1,6 +1,6 @@
 Name: Darcula Pro 2026
 Identity: DarculaPro2026
-Version: 1.0.16 
+Version: 1.0.17 
 GUID: 0024020f-bba3-4365-9ea1-63b23313d509
 BaseGUID: 1ded0138-47ce-435e-84ef-9ec1f439b749
 
@@ -4069,7 +4069,7 @@ Sections:
     StatusBarFillRestText: ["#FFFFFFFF", null]
     ControlStrokeTransparent: ["#FFFFFF00", null]
     AccentFillSenary: ["#9184EE1F", null]
-    SurfaceBackgroundFillDefault: ["#2C2C2CFF", null]
+    SurfaceBackgroundFillDefault: ["#424547FF", null]
 
   ShellInternal:
     GUID: 5af241b7-5627-4d12-bfb1-2b67d11127d7
