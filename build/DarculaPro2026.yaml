@@ -1,6 +1,6 @@
 Name: Darcula Pro 2026
 Identity: DarculaPro2026
-Version: 1.0.19 
+Version: 1.0.20
 GUID: 0024020f-bba3-4365-9ea1-63b23313d509
 BaseGUID: 1ded0138-47ce-435e-84ef-9ec1f439b749
 
@@ -3986,8 +3986,8 @@ Sections:
     ControlStrongFillDisabled: ["#2B2B2BFF", null]
     ControlSolidFillDefault: ["#3C3F41FF", null]
     SubtleFillTransparent: ["#FFFFFF00", null]
-    #SubtleFillSecondary: ["#0000001C", null]
-    SubtleFillSecondary: ["#4B6EAFFF", null]                               # Активный пункт меню в контекстном меню и интерфейсе
+    SubtleFillSecondary: ["#0000001C", null]
+    #SubtleFillSecondary: ["#4B6EAFFF", null]                               # Активный пункт меню в контекстном меню и интерфейсе
     SubtleFillTertiary: ["#00000006", null]
     SubtleFillDisabled: ["#FFFFFF00", null]
     ControlAltFillTransparent: ["#FFFFFF00", null]
@@ -3999,7 +3999,7 @@ Sections:
     ControlOnImageFillSecondary: ["#3C3F41FF", null]
     ControlOnImageFillTertiary: ["#2B2B2BFF", null]
     ControlOnImageFillDisabled: ["#FFFFFF00", null]
-    ControlStrokeDefault: [null, null]
+    ControlStrokeDefault: ["#00000000", null]
     ControlStrokeSecondary: [null, null]
     ControlStrokeOnAccentDefault: ["#FFFFFF14", null]
     ControlStrokeOnAccentSecondary: ["#00000066", null]
