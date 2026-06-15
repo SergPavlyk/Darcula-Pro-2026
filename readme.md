@@ -13,6 +13,15 @@ For maximum comfort during long working sessions, it is recommended to use a fon
     6. In the "Size:" field, set the value to 11 or 12
     7. Click "OK" to apply the changes
 	
+## 🎨 Recommended Tab Colorization
+For better file navigation, it is recommended to colorize tabs by file extension.
+### **Configure** Visual Studio:
+    1. Go to Tools → Options
+    2. In the left panel, select Environment → Tabs → Document Tabs
+    3. In the right panel, find the "Tab colorization method" dropdown
+    4. Select "File Extension"
+    5. Click "OK" to apply the changes	
+	
 ## 📸 Screenshots
 
 ### C# Code Example
